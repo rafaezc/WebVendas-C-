@@ -14,7 +14,7 @@ namespace WebVendas_C.Controllers
             ViewData["Numero"] = "2019073845";
             ViewData["Email"] = "r2019073845@edu.faccar.com.br";
             ViewData["Materia"] = "Programação Orientada a Objetos";
-            ViewData["AulaSem"] = "um dia, toda Terça-Feira";
+            ViewData["AulaSem"] = "um dia por semana, toda Terça-Feira";
             ViewData["Bimestre"] = "3º Bimestre";
 
             return View();
